@@ -24,7 +24,7 @@ export default function App() {
             <nav style={{ margin: '2em 0' }}>
                 <Link to="/"><button>Home</button></Link>
                 <Link to="/resume"><button>Resume</button></Link>
-                <Link to="/projects"><button>Project Highlights</button></Link>
+                {/*<Link to="/projects"><button>Project Highlights</button></Link>*/}
                 <Link to="/publications"><button>Publications</button></Link>
                 <Link to="/github"><button>GitHub</button></Link>
                 <Link to="/contact"><button>Contact</button></Link>
